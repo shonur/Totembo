@@ -1,0 +1,471 @@
+/* 
+1399,98
+1199,98
+991,98
+767,98
+575,98
+ */
+
+
+ @media (max-width:1199.98px){
+   .header__nav .container{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    }
+
+    .watches .container{
+justify-content: center;
+
+    }
+    .footer .container{
+        /* flex-direction: column; */
+        gap: 15px;
+        justify-content: center;
+    }
+
+    .diadema .container{
+       display: flex;
+
+    }
+.line3{
+    width: 1000px;
+    margin: 0 auto;
+}
+   
+    .news .container{
+        flex-direction: column;
+        align-items: center;
+        justify-self: center;
+
+    }
+    .line5{
+        width: 1000px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .diadema__line{
+        width: 1320px;
+
+    }
+
+    .diadema__line{
+        width: 1000px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .first__2box{
+        display: flex;
+        margin-top: 15px;
+        align-items: center;
+        justify-content: center;
+        gap: 7px;
+    }
+    .diadema .container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .second__box{
+        margin-top: -30px;
+    }
+    
+
+   
+ }
+
+ @media(max-width:1080.98px){
+    .first__box{
+        max-width: 450px;
+       gap: 5px;
+
+
+    }
+
+    .second__box{
+        max-width: 450px;
+    }
+    .line5{
+        width: 900px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .diadema__line{
+        width: 900px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .line3{
+        width: 900px;
+        margin: 0 auto;
+    }
+   
+ 
+ }
+
+ @media(max-width:915.8px){
+    .first__2box{
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .first__box{
+        max-width: 526px;
+    }
+     .second__box{
+        max-width: 526px;
+    }
+
+       .line3{
+        width: 850px;
+        margin: 0 auto;
+    }
+      .line5{
+        width: 850px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .diadema__line{
+        width: 850px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .footer__row{
+        gap: 130px;
+    }
+    .footer__pay-info{
+        margin-left: 180px;
+    }
+    .header__list{
+        flex-wrap: wrap;
+    }
+    
+ }
+ 
+ @media(max-width:850.98px){
+    .line3{
+        width: 700px;
+        margin: 0 auto;
+    }
+    .line5{
+        width: 700px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .diadema__line{
+        width: 700px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+   .header__list{
+    gap: 20px;
+   }
+   .header__titles{
+    display: flex;
+    gap: 25px;
+}
+.footer__row{
+    gap: 100px;
+}
+.footer__pay-info{
+    margin-left: 140px;
+}
+
+
+ }
+
+ @media(max-width:767.98px){
+    .footer .container{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .footer__pay-info{
+        margin-top: 50px;
+    }
+    .line3{
+        width: 600px;
+        margin: 0 auto;
+    }
+    .line5{
+        width: 600px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .diadema__line{
+        width: 600px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .header__nav .container{
+        flex-wrap: wrap;
+    }
+.gontel::after{
+top: 20px;
+left: 45px;
+    }
+    .gontel{
+        max-width: 600px;
+    }
+    .header__nav .container{
+   justify-content: center;
+   align-items: center;
+    }
+       .header__list{
+        gap: 5px;
+        flex-direction: column;
+        align-items: center;
+        margin-right: 100px;
+       
+       }
+       .header__titles{
+        display: flex;
+        gap: 20px;
+      justify-content: center;
+      align-items: center;
+     
+    }
+    .logo{
+        margin-top: -40px;
+    }
+    
+ }
+
+ @media (max-width:615.98px){
+    .stacks1::after{
+        left: 235px;
+    }
+    .stacks2::after{
+        left: 235px;
+    }
+    .stacks1{
+max-width:500px;
+position: relative;
+
+    }
+    .time-clock{
+        position: absolute;
+        top: 300px;
+        right: 20px;
+    }
+    .stackj{
+    position: absolute;
+    right:20px;
+    }
+      .stacks2{
+        max-width:500px;
+            }
+              .line3{
+                width: 400px;
+                margin: 0 auto;
+            }
+            .line5{
+                width: 400px;
+                margin: 0 auto;
+                margin-bottom: 20px;
+            }
+            .diadema__line{
+                width: 400px;
+                margin: 0 auto;
+                margin-bottom: 20px;
+            }
+
+               .gontel::after{
+                left:200px;
+            }
+           .gontel{
+            max-width: 500px;
+            flex-direction: column;
+            gap: 40px;
+           }
+
+      .first__box::after{
+        left: 250px;
+        top: 30px;
+      }   
+      .first__box{
+        max-width: 450px;
+      }  
+          .second__box{
+            max-width: 450px;
+          }
+          .second__box::after{
+            left: 250px;
+            top: 30px;
+          }   
+
+ }
+
+ @media(max-width:515.98px){
+    .gontel::after{
+        left: 200px;
+        top: 55px;
+    }
+    .gontel{
+        max-width: 400px;
+        padding: 150px;
+    }
+    .stack__text{
+        width:300px ;
+    }
+    .time-clock{
+        top: 400px;
+        right: 200px;
+    }
+    .stack__title1{
+        max-width: 400px;
+    }
+    .stacks1::after{
+        top: 45px;
+        left: 200px;
+    }
+    .stacks2::after{
+        top: 45px;
+        left: 200px;
+    }
+     .stacks1{
+        width: 430px;
+    }
+    .stacks2{
+        width: 430px;
+    }
+ }
+ @media(max-width:430.98px){
+    .first__box{
+        width: 350px;
+        flex-direction: column;
+    }
+    .first__box::after{top: 20px;
+        left: 100px;
+    }
+    .second__box{
+        width: 350px;
+        flex-direction: column;
+    }
+    .second__box::after{top: 20px;
+        left: 100px;
+    }
+    .gontel::after{
+        left:150px;
+    }
+    .gontel{
+        width: 330px;
+    }
+    .line3{
+        width: 315px;
+        margin: 0 auto;
+    }
+    .line5{
+        width: 315px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .diadema__line{
+        width: 315px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+      .stack__text{
+        width:200px ;
+    }
+    .time-clock{
+        top: 430px;
+        right: 40px;
+    }
+     .stack__text{
+        max-width:300px ;
+    }
+    .stack__title1{
+        max-width: 300px;
+    }
+    .stacks1::after{
+        left: 150px;
+    }
+    .stacks2::after{
+        left: 150px;
+    }
+    .stacks2{
+width: 330px;
+    }
+    .stacks1{
+        width: 330px;
+            }
+            .nn{
+                width: 200px;
+            }
+            .footer .container{
+                justify-content: center;
+                align-items: center;
+                
+            }
+            .footer__row{
+              flex-direction: column;
+              justify-content: center;
+              align-items: center;
+            }
+            .header__list{
+                margin-right: 20px;
+            }
+            .footer__pay-info{
+          margin-left: 100px;
+            }
+            
+
+ }
+
+ @media(max-width:340.98px){
+    .box1{
+        width: 300px;
+    }
+    .box2{
+        width: 300px;
+    }
+    .box3{
+        width: 300px;
+    }
+    .box4{
+        width: 300px;
+    }
+    .box5{
+        width: 300px;
+    }
+    .first__box{
+        width: 300px;
+    }
+    .second__box{
+        width: 300px;
+    }
+    .gontel{
+        width: 300px;
+    }
+    .diadema__end{
+        width: 300px;
+        text-align: center;
+    }
+    .stacks1{
+        width: 300px;
+    }
+    .stack__text{
+        position: absolute;
+       left: 20px;
+       top: 100px;
+    }
+    .stack__title1{
+        width: 250px;
+    }
+    .stacks1::after{
+        left: 100px;
+    }
+    .stacks2::after{
+        left: 100px;
+    }
+    .stacks2{
+        width: 300px;
+    }
+ }
